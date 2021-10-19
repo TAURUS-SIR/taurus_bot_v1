@@ -24,7 +24,7 @@ Project created by <a href="https://github.com/TAURUS-SIR-BOT">Taurus-sir_v1</a>
 <div align="center"> 
 
 
-## Click Youtube logo to Watch full video and findout password in this video 👇
+## PLEASE SUBSCRIBE MY CHANNEL CLICK ON THIS PHOTO TO SUBSCRIBE 👇
 
  [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/TAURUS-SIR-BOT.jpg)](https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA)
 
