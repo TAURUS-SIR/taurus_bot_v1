@@ -6,10 +6,10 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="https://https://www.linkpicture.com/q/TAURUS-SIR-BOT.jpg" alt="IMG" width="300" height="250"/>
+<img src="https://https://www.linkpicture.com/q/TAURUS-SIR-BOT.jpg" alt="TAURUS-SIR-BOT" width="300" height="250"/>
 </p>
   <p align="center">
-<a href="https://github.com/TAURUS-SIR-BOT"><img title="Author" src="https://img.shields.io/badge/Author-Amal-TAURUS-SIR-BOT/Taurus-sir_v1?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/TAURUS-SIR-BOT"><img title="Author" src="https://img.shields.io/badge/Author-Taurus-TAURUS-SIR-BOT/Taurus-sir_v1?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
