@@ -11,7 +11,7 @@
 <img src=TAURUS-SIR-BOT.jpg>
 </p>
   <p align="center">
-<a href="https://github.com/taurus-sir"><img title="Author" src="https://img.shields.io/badge/Author-MUHAMMED-taurus-sir/taurus_bot_v1?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/taurus-sir"><img title="Author" src="https://img.shields.io/badge/Author-MUHAMMED?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
