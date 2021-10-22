@@ -35,7 +35,7 @@ Project created by <a href="https://github.com/taurus-sir">taurus_bot_v1</a> to 
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/taurus-sir/taurus_bot_v1) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@taurussir/JulieMwol#index.js)
   
 ### The Hard Method
 ```js
