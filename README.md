@@ -6,7 +6,6 @@
 
  </a>
 </p>
-<div align="center">
   <p align="center">
 <img src=TAURUS-SIR-BOT.jpg>
 </p>
